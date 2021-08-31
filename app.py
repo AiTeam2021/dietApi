@@ -24,7 +24,7 @@ def hello_world():
     print("asdkhsdkf")
     # put application's code here
 
-    #nltk.download()
+    
     filename = "ingredients - final (2).csv"
 
     arr = request.form.get('title')
